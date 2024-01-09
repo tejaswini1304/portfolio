@@ -518,7 +518,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(./image/imgForMobile.png);
+        background-image: url(./imgForMobile.png);
      }
  
      .header-text{
